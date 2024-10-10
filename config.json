@@ -1,0 +1,7 @@
+{
+    "ACCOUNT_HOST": "https://qpface.documents.azure.com:443/",
+    "ACCOUNT_KEY": "1bTwIHWkXoXProa4LfhEwmJ6LJZ0NhNp1eFSOyDR1JRrrqbifmu8g0PRo3GLICQqGxMk4X3VJ5F7ACDbFX5hDQ==",
+    "DATABASE_ID": "qpFaceCosmosDb",
+    "COSMOS_CONNECTION_STRING": "AccountEndpoint=https://qpface.documents.azure.com:443/;AccountKey=1bTwIHWkXoXProa4LfhEwmJ6LJZ0NhNp1eFSOyDR1JRrrqbifmu8g0PRo3GLICQqGxMk4X3VJ5F7ACDbFX5hDQ==;",
+    "BLOB_CONNECTION_STRING": "DefaultEndpointsProtocol=https;AccountName=qpface;AccountKey=EyMLc4tr5oXFHGmt2C+/hhlAWb/sC1OJbPGdFgQMrYrxnBnpWhJITRrMF9UCXlWXuRBWOAm48mso+ASt8z9Efg==;EndpointSuffix=core.windows.net"
+}

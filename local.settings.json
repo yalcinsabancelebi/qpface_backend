@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=qpface;AccountKey=EyMLc4tr5oXFHGmt2C+/hhlAWb/sC1OJbPGdFgQMrYrxnBnpWhJITRrMF9UCXlWXuRBWOAm48mso+ASt8z9Efg==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsFeatureFlags": "EnableWorkerIndexing",
+    "BlobStorageConnectionString": "DefaultEndpointsProtocol=https;AccountName=qpface;AccountKey=EyMLc4tr5oXFHGmt2C+/hhlAWb/sC1OJbPGdFgQMrYrxnBnpWhJITRrMF9UCXlWXuRBWOAm48mso+ASt8z9Efg==;EndpointSuffix=core.windows.net",
+    "qpface_SERVICEBUS": "Endpoint=sb://qpface.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=d5/7jPgHwBW09IRW24D3QkjjjX3QSPRrf+ASbPo7abg="
+  }
+}

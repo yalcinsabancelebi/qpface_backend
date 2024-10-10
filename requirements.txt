@@ -1,0 +1,13 @@
+azure-functions
+azure-storage-blob
+opencv-python==4.9.0.80
+scikit-image
+openai
+requests
+azure-cosmos==4.2.0
+azure-servicebus==7.12.2 
+asyncio
+azure-messaging-webpubsubservice
+firebase-admin
+google-auth
+python-dotenv
