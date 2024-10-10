@@ -13,7 +13,7 @@ from azure.cosmos import CosmosClient
 import hashlib
 from google.oauth2 import service_account
 import google.auth.transport.requests
-
+#
 
 with open("config.json", "r") as config_file:
     config = json.load(config_file)
